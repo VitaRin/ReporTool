@@ -1,0 +1,14 @@
+{
+  "name": "reportool",
+  "version": "1.0.0",
+  "description": "A tool for reporting penetration testing findings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vita Rinkauskaite",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
